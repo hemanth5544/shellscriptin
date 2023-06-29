@@ -1,0 +1,5 @@
+shell scripting(automating the manual work like other lang but shell in the linuc subsystem)	
+manual --> automate
+used in only linux os
+ls list
+ls -ltr lists the detail view
